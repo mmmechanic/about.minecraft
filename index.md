@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Minecraft är ett spel där du kan bygga och skapa många olika saker. Du kan te.x bygga med många olika [block](https://minecraft-ids.grahamedgecombe.com/)  te.x [redstone](https://minecraft.fandom.com/wiki/Redstone) är ett block som liknar el ledningar.
 
-You can use the [editor on GitHub](https://github.com/mmmechanic/about.minecraft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Du kan bygga många olika minecraft byggen som te.x  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy_9079tj--4%2Fmaxresdefault.jpg&f=1&nofb=1" alt="Minecraft Wooden House + Download - YouTube" style="zoom:25%;" />   eller <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Tlz6U2B1-DJeUE7XFUDtqQHaEK%26pid%3DApi&f=1" alt="How To Make A Redstone Plane - Minecraft PE 0.15.2 - YouTube" style="zoom:50%;" />. Som sagt kan du bygga många olika saker. Och här kommer lite insperation:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.youtube.com/watch?v=eWFjOWrIqyI
 
-```markdown
-Syntax highlighted code block
+https://www.youtube.com/watch?v=Lpn6ybXFDU0
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmmechanic/about.minecraft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://www.youtube.com/watch?v=f1i0EnlnqLc
