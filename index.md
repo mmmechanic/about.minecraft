@@ -11,8 +11,6 @@ eller
 
 Som sagt kan du bygga många olika saker. Och här kommer lite insperation:
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=eWFjOWrIqyI?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="1216" height="684" src="https://www.youtube.com/embed/eWFjOWrIqyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [https://www.youtube.com/watch?v=eWFjOWrIqyI](https://www.youtube.com/watch?v=eWFjOWrIqyI)
